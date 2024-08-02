@@ -11,7 +11,7 @@
 ## Installation
 Nothing to see here (yet).
 
-### Motivation
+## Motivation
 - Land use / land cover classifications have become increasingly important in geosciences in recent years.
   * Machine learning algorithms can understand non-linear relationships and make predictions.
 - Often used to represent and monitor changes, such as climate change.
@@ -22,7 +22,7 @@ Nothing to see here (yet).
   
   <sup>*Figure 1: Land use classification of the city of Isny im Allgäu after a model transfer with data from Versmold, NRW. Created in the course „Fernerkundung und maschinelle Lernverfahren“ by Hanna Meyer, by Kieran Galbraith.*</sup>
 
-#### Components
+## Components
 This project consists of:
 * A Python-based tool that can be installed as an ArcGIS Pro plugin.
 * An intuitive UI with a user guide for quick and easy LULC.
