@@ -20,7 +20,7 @@ Nothing to see here (yet).
   
   ![LULC Example](https://github.com/kgalb01/ArcGIS_Classify/blob/main/Examples/isny_lulc_example.png)
   
-  <sup>*Figure 1: Land use classification of the city of Isny im Allgäu after a model transfer with data from Versmold, NRW. Created in the course „Fernerkundung und maschinelle Lernverfahren“ by Hanna Meyer, by Kieran Galbraith.*</sup>
+  <sup>*Figure 1: Land use classification of the city of Isny im Allgäu after a model transfer with data from Versmold, NRW. Created in the course „Fernerkundung und maschinelle Lernverfahren“ by Hanna Meyer, created by Kieran Galbraith.*</sup>
 
 ## Components
 This project consists of:
@@ -41,4 +41,4 @@ This project consists of:
 
   ![Training Data Example](https://github.com/kgalb01/ArcGIS_Classify/blob/main/Examples/dortmund_data_example.png)
 
-  <sup>*Figure 2: Screenshot of Dortmund training data as GeoJSON, visualized in geojson.io. Created as an example in the course „Geosoftware II“ by Christian Knoth, by Kieran Galbraith.*</sup>
+  <sup>*Figure 2: Screenshot of Dortmund training data as GeoJSON, visualized in geojson.io. Created as an example in the course „Geosoftware II“ by Edzer Pebesma & Christian Knoth, created by Kieran Galbraith.*</sup>
