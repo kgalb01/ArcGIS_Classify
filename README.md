@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kgalb01/ArcGIS_Classify/blob/main/Examples/arcgis_classify_logo.jpg" alt="Logo", width="200">
+</p>
+
 # ArcGIS_Classify
 * ArcGIS_Classify is a Python-based Jupyter Notebook for a quick and easy land-use classifications.
 * This project was created as a final submission for the course "Python in QGIS and ArcGIS Pro" by Sven Harpering and Philippe Rieffel at Universität Münster.
@@ -9,6 +13,7 @@
   * Make sure to use the ArcGIS Pro Python Kernel! For a tutorial visit:
   * https://resources.esri.ca/getting-technical/how-to-configure-visual-studio-code-with-arcgis-pro-s-python-environment
   * The App is only tested on this Kernel! We can't assure that it works properly on other Kernels
+  
   ![VS Example](https://github.com/kgalb01/ArcGIS_Classify/blob/main/Examples/vs_example.jpg)
 
   <sup>*Figure 1: Screenshot from VS Studio Code* showing what Kernel should be in use</sup>
