@@ -3,11 +3,6 @@
 * This project was created as a final submission for the course "Python in QGIS and ArcGIS Pro" by Sven Harpering and Philippe Rieffel at Universität Münster.
 * The authors are Jonas Starke and Kieran Galbraith. For questions, contact us at: jstarke@uni-muenster.de or k_galb01@uni-muenster.de.
 
-## To-Do
-* Installation guide: Implement an installation guide into the readme.
-* Finish the "components" part of the readme.
-  * The Input / Output part should maybe be moved to the installation guide.
-
 ## Installation
 Download the ArcGIS Pro Project file and run it. It should open a Jupyter Notebook. Carefully read the instructions and follow the Step-by-Step Guide until you saved your own LULC. 
 
