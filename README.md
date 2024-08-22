@@ -39,7 +39,7 @@ This project consists of:
 * A Python-based Jupyter Notebook that can be run using VS Studio Code.
 * An intuitive UI with a user guide for quick and easy LULC.
   - Including provided example data and the possibility to use your own.
-  - The example data include training data from Dortmund, an already finished model from Dortmund, and Sentinel-2 data from Münster.
+  - The example data include training data from Dortmund, an already finished model from Dortmund, and Sentinel-2 data from Münster or Stuttgart.
       * Note that these files are only supposed to be examples; the training data from Dortmund were *not* scientifically created with groundtruthing.
 * Ability to input data and fetch a PDF with the finished LULC.
   - Input:
@@ -57,5 +57,8 @@ This project consists of:
 
 ## Bugs
 A list of bugs we know and we actively try to remove:
+* This project was initially planned as a plugin for ArcGIS Pro, which turned out to be too complicated at the moment
+  * Then we planned to use the Jupyter Notebook in ArcGIS Pro but it turns out there are lots of problems with some modules that can't be installed / loaded, especially for the UI
+  * So we ended up using VS Studio Code for now, because that works all the time
 * .grd Files can't be inserted into the Jupyter Notebook
-* Sometimes a component just doesn't work for some reason and you have to start all over again
+* Clicking "Yes" on "4.2.2" for the question "Is your Area of Training (the region where your Training data are located) the same as your Area of Interest?" Doesn't work yet, we recommend to click "no" and chose the same .TIF file again, if you run into problems!
