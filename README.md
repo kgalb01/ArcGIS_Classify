@@ -2,6 +2,9 @@
   <img src="https://github.com/kgalb01/ArcGIS_Classify/blob/main/Examples/arcgis_classify_logo.jpg" alt="Logo", width="200">
 </p>
 
+  <sup>*Figure 0: Logo for the project "ArcGIS_Classify", done with Adobe Firefly</sup>
+
+
 # ArcGIS_Classify
 * ArcGIS_Classify is a Python-based Jupyter Notebook for a quick and easy land-use classifications.
 * This project was created as a final submission for the course "Python in QGIS and ArcGIS Pro" by Sven Harpering and Philippe Rieffel at Universität Münster.
