@@ -62,3 +62,15 @@ A list of bugs we know and we actively try to remove:
   * So we ended up using VS Studio Code for now, because that works all the time
 * .grd Files can't be inserted into the Jupyter Notebook
 * Clicking "Yes" on "4.2.2" for the question "Is your Area of Training (the region where your Training data are located) the same as your Area of Interest?" Doesn't work yet, we recommend to click "no" and chose the same .TIF file again, if you run into problems!
+
+## Bibliography
+* NOTE: This bibliography is incomplete, because we only recently started to gather every helpful forum post or YouTube Video
+* Harpering, Sven & Rieffel, Phillipe: Seminarfolien. Python in QGIS and ArcGIS. SoSe 2024.
+* Meyer, Hanna: Vorlesungsfolien. Fernerkundung und maschinelle Lernverfahren zur flächendeckenden Erfassung von Umweltvariablen. WiSe 2021-22.
+* https://www.geeksforgeeks.org/visualizing-tiff-file-using-matplotlib-and-gdal-using-python/
+* https://github.com/MasoumehVahedi/Random_Forest_LandUse_LandCover_Classification-/blob/main/Random%20Forest%20Land%20cover%20Classification.ipynb
+* https://www.youtube.com/watch?v=r002WD_Ui8g
+* https://matplotlib.org/stable/users/explain/colors/colormaps.html#overview
+* https://scikit-learn.org/stable/
+* ...
+* A *LOT* of YouTube tutorials and trial and error
