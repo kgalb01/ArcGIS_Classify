@@ -1,5 +1,5 @@
 # ArcGIS_Classify
-* ArcGIS_Classify is a Python-based plugin for ArcGIS Pro for quick and easy land-use classifications.
+* ArcGIS_Classify is a Python-based Jupyter Notebook for ArcGIS Pro for quick and easy land-use classifications.
 * This project was created as a final submission for the course "Python in QGIS and ArcGIS Pro" by Sven Harpering and Philippe Rieffel at Universität Münster.
 * The authors are Jonas Starke and Kieran Galbraith. For questions, contact us at: jstarke@uni-muenster.de or k_galb01@uni-muenster.de.
 
@@ -9,7 +9,7 @@
   * The Input / Output part should maybe be moved to the installation guide.
 
 ## Installation
-Nothing to see here (yet).
+Download the ArcGIS Pro Project file and run it. It should open a Jupyter Notebook. Carefully read the instructions and follow the Step-by-Step Guide until you saved your own LULC. 
 
 ## Motivation
 - Land use / land cover classifications have become increasingly important in geosciences in recent years.
@@ -24,7 +24,7 @@ Nothing to see here (yet).
 
 ## Components
 This project consists of:
-* A Python-based tool that can be installed as an ArcGIS Pro plugin.
+* A Python-based Jupyter Notebook that can be run using ArcGIS Pro.
 * An intuitive UI with a user guide for quick and easy LULC.
   - Including provided example data and the possibility to use your own.
   - The example data include training data from Dortmund, an already finished model from Dortmund, and Sentinel-2 data from Münster.
